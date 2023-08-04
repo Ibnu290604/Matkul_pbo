@@ -5,7 +5,7 @@
 
 /**
  *
- * @author WINDOWS 10
+ * @author Ibnu Abizaid Fisabilillah (22104410037)
  */
 public interface ppn {
     
